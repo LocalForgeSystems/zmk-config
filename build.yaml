@@ -1,0 +1,5 @@
+
+include:
+  - board: nice_nano//zmk
+    shield: one_key
+    artifact-name: one_key_spacebar
