@@ -1,0 +1,8 @@
+
+if SHIELD_ONE_KEY
+
+config ZMK_KEYBOARD_NAME
+    default "One Key Spacebar"
+
+endif
+
